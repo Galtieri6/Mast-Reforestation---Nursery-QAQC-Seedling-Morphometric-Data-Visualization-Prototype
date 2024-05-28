@@ -15,10 +15,8 @@ Below, I will include a step-by-step process on how to run the application:
 
 Instructions
 0. MacOS 12 - Monterey
-1. Download QAQC 2024 Seedling Measurements - Cal Forest.xlsx from: 
-https://docs.google.com/spreadsheets/d/1wY06_2PeuIYWoElikYkDjyaPTd6hME9aYVJw6cqQheA/edit?usp=sharing
-2. Download QAQC 2024 Seedling Measurements - Silvaseed.xlsx from:
-https://docs.google.com/spreadsheets/d/1niPlApdTunDwALSfHBTN4wl_ZCfDNcAIFhjp3OVyoxI/edit?usp=sharing
+1. Download QAQC 2024 Seedling Measurements - Cal Forest.xlsx from: (Unable to be Shared, per Compmany IP)
+2. Download QAQC 2024 Seedling Measurements - Silvaseed.xlsx from: (Unable to be Shared, per Compmany IP)
 3. Save (1) into C:\QAQC\2024SeedlingMeasurements
 4. Ensure that you have dated the saved file, as these xlsx files will be released by the QAQC team on a bi-weekly basis. 
 5. Running scripts requires R with libraries here, shiny, ggplot, readxl, and dplyr. If not already installed, get from https://www.r-project.org/ and follow standard install and use install_packages() for libraries. Alternative, use RStudio, which will assist with library installation and run scripts within RStudio.
