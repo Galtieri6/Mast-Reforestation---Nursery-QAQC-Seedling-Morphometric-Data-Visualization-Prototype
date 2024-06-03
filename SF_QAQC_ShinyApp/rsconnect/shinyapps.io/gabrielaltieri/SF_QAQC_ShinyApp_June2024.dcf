@@ -1,0 +1,12 @@
+name: SF_QAQC_ShinyApp_June2024
+title: SF_QAQC_ShinyApp_June2024
+username: gabrielaltieri
+account: gabrielaltieri
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12114493
+bundleId: 8692746
+url: https://gabrielaltieri.shinyapps.io/SF_QAQC_ShinyApp_June2024/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE

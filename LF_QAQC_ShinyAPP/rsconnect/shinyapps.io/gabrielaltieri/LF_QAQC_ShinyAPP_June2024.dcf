@@ -1,0 +1,12 @@
+name: LF_QAQC_ShinyAPP_June2024
+title: LF_QAQC_ShinyAPP_June2024
+username: gabrielaltieri
+account: gabrielaltieri
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 12114382
+bundleId: 8692663
+url: https://gabrielaltieri.shinyapps.io/LF_QAQC_ShinyAPP_June2024/
+version: 1
+asMultiple: FALSE
+asStatic: FALSE
